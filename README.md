@@ -11,10 +11,12 @@ Files taken from [WOCARLib repository](https://github.com/systoolz/wocarlib):
 
 dlloader.c / dlloader.h
 
-Actual files realated to this repository:
+Actual files related to this repository:
 
 sbkeydec.c - Sandboxie Activation Key decoder
 
 sbactive.c - Sandboxie Activation Key generator [unfinished]
 
 sbhelper.h - helper file for both tools above
+
+sbtreset.c - Sandboxie trial period reset tool (tested only with Sandboxie 5.22)
